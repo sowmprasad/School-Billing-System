@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1607857785 source:d:\sowmya_project\school_billing_system_madhu\school_billing_system_madhushree\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
